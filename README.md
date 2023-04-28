@@ -1,2 +1,2 @@
 # ImageWarehouse-
-自用的图床
+GitHub Pages and blog
